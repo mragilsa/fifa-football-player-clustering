@@ -3,7 +3,7 @@
 This repository presents a machine learning analysis using the K-Means algorithm to group football players based on their attributes, such as skill levels, potential, wages, and age.
 
 ## Dataset
-Source: [Kaggle – FIFA 22 Complete Player Dataset](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset)
+Source: [Kaggle – FIFA 22 Complete Player Dataset](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset?select=players_22.csv)
 
 ## Dataset Description
 - Comprehensive player data from FIFA 22 with 19,000+ records and 110 variables.
